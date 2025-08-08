@@ -1,0 +1,1 @@
+const getFin = document.getElementById("get-finder")
